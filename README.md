@@ -210,7 +210,3 @@ getLogger().info(
 ```bash
 mvn clean package
 ```
-
-## License
-
-No license file is currently included in this repository. For public distribution, add a `LICENSE` (for example MIT or Apache-2.0).
