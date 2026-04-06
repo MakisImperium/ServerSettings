@@ -1,0 +1,6 @@
+name: NovaServerSettingsApi
+main: org.nova.Main
+version: "1.0.0"
+api: ["1.0.0"]
+author: marce
+description: Packet-level ServerSettings API provider for other NukkitX plugins.
